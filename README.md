@@ -1,2 +1,39 @@
-# netflix-clone
-Responsive Netflix landing page clone built with HTML, CSS, JavaScript and, attractive UI/UX design with impressive styles
+# 🎬 Netflix Clone
+
+A **fully responsive front-end clone of Netflix**, built with modern **HTML, CSS, and JavaScript**. This project replicates the iconic Netflix landing page UI, featuring interactive cards, smooth animations, a cinematic hero section, and a fully responsive design.
+
+---
+
+## 🚀 Demo
+
+> Live demo URL (if deployed): [Your GitHub Pages link here]
+
+---
+
+## ✨ Features
+
+- **Responsive Design** – Works seamlessly on mobile, tablet, and desktop.
+- **Hero Section with Animated Curves** – Cinematic top curve using SVG, gradients, and blur effects.
+- **Trending Now Section** – Scrollable, interactive movie/show cards with hover animations.
+- **Interactive Cards** – Hover effects with scaling, overlays, and ranking numbers.
+- **Accordion FAQ Section** – Expandable questions with smooth transitions.
+- **Animated “More Reasons” Section** – Feature boxes with shimmer effect and hover interactions.
+- **Email Subscription Forms** – Validates input with toast notifications.
+- **Sticky Navbar** – Shrinks and blurs dynamically on scroll.
+- **Custom Scrollbar** – Styled to match the Netflix theme.
+- **Modern Animations** – Intersection Observer reveals for smooth entrance animations.
+- **Professional UI Design** – Uses gradients, shadows, and cinematic color scheme.
+
+---
+
+## 🛠️ Built With
+
+- **HTML5**
+- **CSS3** (Flexbox, Grid, CSS Variables, Clamp, Media Queries)
+- **JavaScript** (ES6+, Intersection Observer, DOM Manipulation)
+- **SVG** (Curved hero paths and icons)
+- **Font Awesome 7** for icons
+
+---
+
+#
