@@ -6,7 +6,7 @@ A **fully responsive front-end clone of Netflix**, built with modern **HTML, CSS
 
 ## 🚀 Live Demo
 
-[Live Demo](https://maazarifdev.github.io/netflix-clone/)
+[Live Demo](https://maazarifdev.github.io/streaming-clone/)
 
 ---
 
