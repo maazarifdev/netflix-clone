@@ -1,7 +1,7 @@
 # Animated Nexplay UI Design — Frontend Practice Project
 
 ## 🚀 Live Demo
-[View on Vercel](https://your-vercel-link-here.vercel.app)
+[View on Vercel](animated-netflix-clone.vercel.app)
 
 ## 🛠️ Built With
 - HTML5 (semantic structure)
